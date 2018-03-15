@@ -1,5 +1,6 @@
 # Powerstats
 Powerstats Kernel Module
+
 Author: Björn Brömstrup, Alexander Koglin
 
 Displays the C-states of **ALL** CPU cores.
